@@ -14,5 +14,5 @@
 
 
 ### Videos
-![Video 1](./img/assignment7(1).mp4)
-![Video 2](./img/assignment7(2).mp4)
+./img/assignment7(1).mp4
+./img/assignment7(2).mp4
