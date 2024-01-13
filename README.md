@@ -14,5 +14,12 @@
 
 
 ### Videos
-./img/assignment7(1).mp4
-./img/assignment7(2).mp4
+
+
+
+https://github.com/BrijanV/Autonomous-robot-/assets/146171011/b1a12865-b5f2-4bc8-bf89-cb55a4e2b93a
+
+
+
+https://github.com/BrijanV/Autonomous-robot-/assets/146171011/1e69408c-3066-4643-a95e-c202731047c3
+
