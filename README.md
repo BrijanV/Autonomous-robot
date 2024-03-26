@@ -1,6 +1,6 @@
 # Autonomous robot  
 ---
--   Design an autonomous robot in Fusion 360 from scratch.
+-   Design an autonomous robot in Fusion 360.
 -   Differential drive, laser (2d-Lidar), and camera plugins were implemented, and gazebo was used to simulate the 	results in a user-defined world.
 ---
 ### Images
